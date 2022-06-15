@@ -29,6 +29,16 @@ body {
 .fs8  {font-size: 2.6vw !important}
 
 /****Padding y margin********/
+.pa2 {padding: 5px;}
+.pa2 {padding: 12px;}
+.pa3 {padding: 15px;}
+.pa4 {padding: 20px;}
+.pa5 {padding: 25px;}
+.pa6 {padding: 32px;}
+.pa7 {padding: 45px;}
+.pa8 {padding: 60px;}
+.pa9 {padding: 80px;}
+
 .pat2 {padding-top: 5px;}
 .pat2 {padding-top: 12px;}
 .pat3 {padding-top: 15px;}
@@ -68,3 +78,23 @@ body {
 .par7 {padding-right: 45px;}
 .par8 {padding-right: 60px;}
 .par9 {padding-right: 80px;}
+
+.pab1n {padding-bottom: -5px !important;}
+.pab2n {padding-bottom: -12px !important;}
+.pab3n {padding-bottom: -15px !important;}
+.pab4n {padding-bottom: -20px !important;}
+.pab5n {padding-bottom: -25px !important;}
+.pab6n {padding-bottom: -32px !important;}
+.pab7n {padding-bottom: -45px !important;}
+.pab8n {padding-bottom: -60px !important;}
+.pab9n {padding-bottom: -80px !important;}
+
+.mar1n {margin-right: 5px !important;}
+.mar2n {margin-right: 12px !important;}
+.mar3n {margin-right: 15px !important;}
+.mar4n {margin-right: 20px !important;}
+.mar5n {margin-right: 25px !important;}
+.mar6n {margin-right: 32px !important;}
+.mar7n {margin-right: 45px !important;}
+.mar8n {margin-right: 60px !important;}
+.mar9n {margin-right: 80px !important;}
