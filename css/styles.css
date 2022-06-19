@@ -89,12 +89,22 @@ body {
 .pab8n {padding-bottom: -60px !important;}
 .pab9n {padding-bottom: -80px !important;}
 
-.mar1n {margin-right: 5px !important;}
-.mar2n {margin-right: 12px !important;}
-.mar3n {margin-right: 15px !important;}
-.mar4n {margin-right: 20px !important;}
-.mar5n {margin-right: 25px !important;}
-.mar6n {margin-right: 32px !important;}
-.mar7n {margin-right: 45px !important;}
-.mar8n {margin-right: 60px !important;}
-.mar9n {margin-right: 80px !important;}
+.mar1 {margin-right: 5px !important;}
+.mar2 {margin-right: 12px !important;}
+.mar3 {margin-right: 15px !important;}
+.mar4 {margin-right: 20px !important;}
+.mar5 {margin-right: 25px !important;}
+.mar6 {margin-right: 32px !important;}
+.mar7 {margin-right: 45px !important;}
+.mar8 {margin-right: 60px !important;}
+.mar9 {margin-right: 80px !important;}
+
+.mal1 {margin-left: 5px !important;}
+.mal2 {margin-left: 12px !important;}
+.mal3 {margin-left: 15px !important;}
+.mal4 {margin-left: 20px !important;}
+.mal5 {margin-left: 25px !important;}
+.mal6 {margin-left: 32px !important;}
+.mal7 {margin-left: 45px !important;}
+.mal8 {margin-left: 60px !important;}
+.mal9 {margin-left: 80px !important;}
