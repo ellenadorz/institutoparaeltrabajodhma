@@ -8,26 +8,6 @@ body {
     flex: 1 0 auto;
   }
 
-/*  fontSize: */
-.xs   {font-size: 0.75rem !important}
-.sm   {font-size: 0.875rem !important}
-.base {font-size: 1rem !important}
-.lg   {font-size: 1.125rem !important}
-.xl   {font-size: 1.25rem !important}
-.xl2  {font-size: 1.5rem !important}
-.xl3  {font-size: 1.875rem !important}
-.xl4  {font-size: 2.25rem !important}
-.xl5  {font-size: 3rem !important}
-.xl6  {font-size: 4rem !important}
-.fs1  {font-size: 1vw !important}
-.fs2  {font-size: 1.4vw !important}
-.fs3  {font-size: 1.6vw !important}
-.fs4  {font-size: 1.8vw !important}
-.fs5  {font-size: 2vw !important}
-.fs6  {font-size: 2.2vw !important}
-.fs7  {font-size: 2.4vw !important}
-.fs8  {font-size: 2.6vw !important}
-
 /****Padding y margin********/
 .pa2 {padding: 5px;}
 .pa2 {padding: 12px;}
@@ -118,3 +98,40 @@ body {
 .mab7 {margin-bottom: 45px !important;}
 .mab8 {margin-bottom: 60px !important;}
 .mab9 {margin-bottom: 80px !important;}
+
+/*********TEXT******
+********************/
+
+
+.weight-1 {font-weight: 100 !important;}
+.weight-2 {font-weight: 200 !important;}
+.weight-3 {font-weight: 300 !important;}
+.weight-4 {font-weight: 400 !important;}
+.weight-5 {font-weight: 500 !important;}
+.weight-6 {font-weight: 600 !important;}
+.weight-7 {font-weight: 700 !important;}
+.weight-8 {font-weight: 800 !important;}
+.weight-8 {font-weight: 900 !important;}
+.weight-8 {font-weight: bold !important;}
+.weight-8 {font-weight: bolder !important;}
+.weight-8 {font-weight: lighter !important;}
+
+/*  fontSize: */
+.xs   {font-size: 0.75rem !important}
+.sm   {font-size: 0.875rem !important}
+.base {font-size: 1rem !important}
+.lg   {font-size: 1.125rem !important}
+.xl   {font-size: 1.25rem !important}
+.xl2  {font-size: 1.5rem !important}
+.xl3  {font-size: 1.875rem !important}
+.xl4  {font-size: 2.25rem !important}
+.xl5  {font-size: 3rem !important}
+.xl6  {font-size: 4rem !important}
+.fs1  {font-size: 1vw !important}
+.fs2  {font-size: 1.4vw !important}
+.fs3  {font-size: 1.6vw !important}
+.fs4  {font-size: 1.8vw !important}
+.fs5  {font-size: 2vw !important}
+.fs6  {font-size: 2.2vw !important}
+.fs7  {font-size: 2.4vw !important}
+.fs8  {font-size: 2.6vw !important}
