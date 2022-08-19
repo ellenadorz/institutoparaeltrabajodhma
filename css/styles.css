@@ -11,7 +11,7 @@ body {
   /******* PERSONALIZACION ***************/
 
   /**scrollbar oculto***/
-  .overflow-hidden::-webkit-scrollbar {display: none;}
+  
   .overflow-hidden::-webkit-scrollbar {
     display: none;
     width: 10px;
